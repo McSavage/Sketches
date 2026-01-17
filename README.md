@@ -7,7 +7,8 @@ This repository is a sketch area to catch short Python experiments as I explore 
 Each topic gets its own subdirectory. Create a new subdirectory as the topic changes.
 
 Example structure:
-```
+
+```text
 sketches/
 ├── topic_one/
 │   ├── README.md
